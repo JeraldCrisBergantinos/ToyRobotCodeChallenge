@@ -67,3 +67,26 @@ MOVE
 REPORT
 
 Output: 3,3,NORTH
+
+## Setup:
+This project is developed in Windows 8.1 using:
+1. Code::Blocks 20.03
+2. GNU GCC Compiler
+
+Refer to the following Youtube video on how to install Code::Blocks with GNU GCC Compiler in Windows:
+How to Install CodeBlocks (IDE 20.03) with MinGW for C and C++ Programming on Windows 11
+https://www.youtube.com/watch?v=Thf1NkwpICY
+
+## Building the Project
+1. Clone this repository. You should have the ToyRobotCodeChallenge folder with the source code after this.
+2. Open Code::Blocks.
+3. Click 'Open Existing Project' in the 'Start here' section. Alternatively, go to File -> Open, or press Ctrl+O. Navigate to the ToyRobotCodeChallenge folder. Select ToyRobotCodeChallenge.cbp. Click Open. The ToyRobotCodeChallenge project will be loaded into Code::Blocks.
+4. Go to Build -> Build and Run. Or press F9. The app should be running after this. The executable file will be inside the bin/Release folder.
+
+## Running the Application
+1. Open Code::Blocks.
+2. Build ToyRobotCodeChallenge project. Refer to the 'Building the Project' section above on how to.
+3. Go to Build -> Run. Or press Ctrl+F10. A command prompt should appear. The application is now running.
+4. You will be asked to enter 1 or 2.
+1 to issue PLACE, MOVE, LEFT, RIGHT, and REPORT commands. Upon selecting this option, you can enter any number of commands. Refer to the test_data.txt for sample commands. To exit, type 'EXIT' and press ENTER.
+2 to run the tests. The application will exit once all the tests are finished executing.
