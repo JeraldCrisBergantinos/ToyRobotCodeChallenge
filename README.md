@@ -74,6 +74,7 @@ This project is developed in Windows 8.1 using:
 2. GNU GCC Compiler
 
 Refer to the following Youtube video on how to install Code::Blocks with GNU GCC Compiler in Windows:
+
 How to Install CodeBlocks (IDE 20.03) with MinGW for C and C++ Programming on Windows 11
 https://www.youtube.com/watch?v=Thf1NkwpICY
 
