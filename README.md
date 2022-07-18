@@ -89,5 +89,7 @@ https://www.youtube.com/watch?v=Thf1NkwpICY
 2. Build ToyRobotCodeChallenge project. Refer to the 'Building the Project' section above on how to.
 3. Go to Build -> Run. Or press Ctrl+F10. A command prompt should appear. The application is now running.
 4. You will be asked to enter 1 or 2.
+
 1 to issue PLACE, MOVE, LEFT, RIGHT, and REPORT commands. Upon selecting this option, you can enter any number of commands. Refer to the test_data.txt for sample commands. To exit, type 'EXIT' and press ENTER.
+
 2 to run the tests. The application will exit once all the tests are finished executing.
