@@ -78,13 +78,13 @@ Refer to the following Youtube video on how to install Code::Blocks with GNU GCC
 How to Install CodeBlocks (IDE 20.03) with MinGW for C and C++ Programming on Windows 11
 https://www.youtube.com/watch?v=Thf1NkwpICY
 
-## Building the Project
+## Building the Project:
 1. Clone this repository. You should have the ToyRobotCodeChallenge folder with the source code after this.
 2. Open Code::Blocks.
 3. Click 'Open Existing Project' in the 'Start here' section. Alternatively, go to File -> Open, or press Ctrl+O. Navigate to the ToyRobotCodeChallenge folder. Select ToyRobotCodeChallenge.cbp. Click Open. The ToyRobotCodeChallenge project will be loaded into Code::Blocks.
 4. Go to Build -> Build and Run. Or press F9. The app should be running after this. The executable file will be inside the bin/Release folder.
 
-## Running the Application
+## Running the Application:
 1. Open Code::Blocks.
 2. Build ToyRobotCodeChallenge project. Refer to the 'Building the Project' section above on how to.
 3. Go to Build -> Run. Or press Ctrl+F10. A command prompt should appear. The application is now running.
